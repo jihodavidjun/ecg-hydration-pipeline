@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
+#### ! Make sure to run the script from your terminal or PowerShell to see the ECG plot.
 ### A) Jiho's Research Data
 #### Subject 10: water, rest
 ```bash
